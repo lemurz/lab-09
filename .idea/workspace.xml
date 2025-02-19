@@ -6,7 +6,9 @@
   <component name="ChangeListManager">
     <list default="true" id="8daf9f21-7eaa-4d46-a9db-ec771763f68d" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Order.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Order.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PriceCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PriceCalculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Topping.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Topping.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,6 +40,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Main.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
@@ -63,7 +66,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1739955559274</updated>
-      <workItem from="1739955560810" duration="2487000" />
+      <workItem from="1739955560810" duration="4565000" />
     </task>
     <servers />
   </component>
